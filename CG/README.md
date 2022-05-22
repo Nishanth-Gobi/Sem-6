@@ -1,2 +1,5 @@
 # Computer-Graphics
-Programs from CG Course
+
+- c_curve.py
+- dragon_curve.py
+- mandelbrot.py
